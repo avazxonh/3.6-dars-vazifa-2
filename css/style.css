@@ -1,0 +1,126 @@
+@import url(./global.css);
+
+.hader {
+  margin-top: 22.8rem;
+  display: flex;
+  gap: 11.5rem;
+  margin-bottom: 7.8rem;
+}
+
+.header-left {
+}
+.header-left-heading {
+  width: 460px;
+  font-weight: 700;
+  font-size: 4.4rem;
+  line-height: 6rem;
+  color: #21243d;
+}
+.header-left-paragraph {
+  width: 497px;
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 23.5px;
+  color: #21243d;
+  margin-top: 4rem;
+  margin-bottom: 3.8rem;
+}
+
+.download-btn {
+  padding-top: 0.9rem;
+  padding-bottom: 1.7rem;
+  padding-left: 2rem;
+  padding-right: 2.1rem;
+  background-color: #ff6464;
+  border-radius: 2px;
+  font-weight: 500;
+  font-size: 2rem;
+  line-height: 29.38px;
+  color: #fff;
+}
+.main-start-bgc {
+  background-color: #edf7fa;
+  padding-top: 7px;
+  padding-bottom: 3.9rem;
+}
+
+.main-container {
+}
+
+.main-section-left {
+  display: flex;
+  gap: 2rem;
+}
+
+.left-section {
+  display: flex;
+  flex-direction: column;
+}
+.recent {
+  font-weight: 400;
+  font-size: 2.2rem;
+  line-height: 6rem;
+  color: #21243d;
+  padding-bottom: 2px;
+}
+.right-rectangle {
+  padding-top: 2.4rem;
+  padding-left: 2.3rem;
+  padding-bottom: 0.7rem;
+  padding-right: 2.7rem;
+  background-color: #fff;
+}
+.rectangle-heading {
+  width: 374px;
+  font-weight: 700;
+  font-size: 2.6rem;
+  line-height: 38.19px;
+  color: #21243d;
+  padding-bottom: 1.7rem;
+}
+.rectangle-time {
+  width: 374px;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 26.44px;
+  color: #21243d;
+  margin-bottom: 1.1rem;
+}
+.rectangle-paragraph {
+  width: 368px;
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 23.5px;
+  color: #21243d;
+}
+.fatures {
+
+}
+
+.featured-heading {
+  margin-top: 1.5rem;
+  font-weight: 400;
+  font-size: 2.2rem;
+  line-height: 6rem;
+  color: #21243d;
+}
+
+.featured {
+}
+.img-rectangle {
+  display: flex;
+  gap: 1.8rem;
+}
+.img-text {
+  font-weight: 700;
+  font-size: 3rem;
+  line-height: 4.4rem;
+  color: #21243d;
+  display: inline-block;
+}
+.img-text-two {
+}
+.dashboard {
+}
+.img-text-paragraph {
+}
