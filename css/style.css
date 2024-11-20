@@ -7,6 +7,10 @@
   margin-bottom: 7.8rem;
 }
 
+.main {
+  padding-bottom: 8.3rem;
+}
+
 .header-left {
 }
 .header-left-heading {
@@ -38,89 +42,89 @@
   line-height: 29.38px;
   color: #fff;
 }
-.main-start-bgc {
-  background-color: #edf7fa;
+
+.heading {
   padding-top: 7px;
-  padding-bottom: 3.9rem;
-}
-
-.main-container {
-}
-
-.main-section-left {
-  display: flex;
-  gap: 2rem;
-}
-
-.left-section {
-  display: flex;
-  flex-direction: column;
-}
-.recent {
+  padding-bottom: 2px;
   font-weight: 400;
   font-size: 2.2rem;
   line-height: 6rem;
   color: #21243d;
-  padding-bottom: 2px;
 }
-.right-rectangle {
+.cls {
+  background-color: #edf7fa;
+  padding-bottom: 3.2rem;
+}
+.lf-rg-content {
+  display: flex;
+  gap: 2rem;
+}
+.left {
+  background-color: white;
   padding-top: 2.4rem;
-  padding-left: 2.3rem;
   padding-bottom: 0.7rem;
-  padding-right: 2.7rem;
-  background-color: #fff;
+  padding-left: 2.3rem;
+  padding-right: 2.1rem;
 }
-.rectangle-heading {
-  width: 374px;
+.left-heading {
   font-weight: 700;
   font-size: 2.6rem;
-  line-height: 38.19px;
-  color: #21243d;
-  padding-bottom: 1.7rem;
-}
-.rectangle-time {
+  line-height: 3.8rem;
   width: 374px;
-  font-weight: 400;
-  font-size: 1rem;
-  line-height: 26.44px;
   color: #21243d;
-  margin-bottom: 1.1rem;
+  margin-bottom: 1.7rem;
 }
-.rectangle-paragraph {
-  width: 368px;
+.left-time {
+  font-weight: 400;
+  font-size: 1.8rem;
+  line-height: 2.6rem;
+  color: #21243d;
+  width: 374px;
+}
+.left-paragraph {
+  margin-top: 1.1rem;
+
   font-weight: 400;
   font-size: 1.6rem;
   line-height: 23.5px;
   color: #21243d;
-}
-.fatures {
-
+  width: 368px;
 }
 
-.featured-heading {
-  margin-top: 1.5rem;
-  font-weight: 400;
-  font-size: 2.2rem;
-  line-height: 6rem;
-  color: #21243d;
-}
-
-.featured {
-}
-.img-rectangle {
+.imgtext {
   display: flex;
   gap: 1.8rem;
 }
-.img-text {
+
+.img-heading {
   font-weight: 700;
   font-size: 3rem;
   line-height: 4.4rem;
   color: #21243d;
-  display: inline-block;
+  margin-bottom: 1rem;
+  width: 350px;
 }
-.img-text-two {
+.dashboard-year {
+  background-color: #142850;
+  border-radius: 1.6rem;
+  width: 62px;
+  color: #fff;
+  font-weight: 900;
+  font-size: 1.4rem;
+  padding: 0.3rem 1rem;
+  margin-bottom: 1.5rem;
 }
-.dashboard {
+
+.img-paragraph {
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 2.3rem;
+  color: #21243d;
+  width: 550px;
 }
-.img-text-paragraph {
+.description {
+  margin-top: 1.5rem;
+  width: 858px;
+  border: 1px solid #e0e0e0;
+  margin-bottom: 3.1rem;
 }

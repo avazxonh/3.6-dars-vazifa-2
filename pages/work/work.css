@@ -1,1 +1,86 @@
 @import url(../../css/global.css);
+
+.work-heading {
+    padding-top: 9rem;
+    padding-bottom: 2.5rem;
+    font-weight: 900;
+    font-size: 4.4rem;
+    line-height: 6rem;
+}
+.cls {
+  background-color: #edf7fa;
+  padding-bottom: 3.2rem;
+}
+.lf-rg-content {
+  display: flex;
+  gap: 2rem;
+}
+.left {
+  background-color: white;
+  padding-top: 2.4rem;
+  padding-bottom: 0.7rem;
+  padding-left: 2.3rem;
+  padding-right: 2.1rem;
+}
+.left-heading {
+  font-weight: 700;
+  font-size: 2.6rem;
+  line-height: 3.8rem;
+  width: 374px;
+  color: #21243d;
+  margin-bottom: 1.7rem;
+}
+.left-time {
+  font-weight: 400;
+  font-size: 1.8rem;
+  line-height: 2.6rem;
+  color: #21243d;
+  width: 374px;
+}
+.left-paragraph {
+  margin-top: 1.1rem;
+
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 23.5px;
+  color: #21243d;
+  width: 368px;
+}
+
+.imgtext {
+  display: flex;
+  gap: 1.8rem;
+}
+
+.img-heading {
+  font-weight: 700;
+  font-size: 3rem;
+  line-height: 4.4rem;
+  color: #21243d;
+  margin-bottom: 1rem;
+  width: 350px;
+}
+.dashboard-year {
+  background-color: #142850;
+  border-radius: 1.6rem;
+  width: 62px;
+  color: #fff;
+  font-weight: 900;
+  font-size: 1.4rem;
+  padding: 0.3rem 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.img-paragraph {
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 2.3rem;
+  color: #21243d;
+  width: 550px;
+}
+.description {
+  margin-top: 1.5rem;
+  width: 858px;
+  border: 1px solid #e0e0e0;
+  margin-bottom: 3.1rem;
+}
